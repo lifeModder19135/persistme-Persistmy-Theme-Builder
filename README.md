@@ -2,10 +2,10 @@
 
 In this repo, I intend to house the fruits of an open-source, community-led, project to design a program that will be 
 
-  1.) operable via command line and / or GUI
-  2.) cross-platform
-  3.) simple to use, hopefully encapsulating a lot of the gorier, more tech-oriented bits.
-  4.) enough of the idealistics; how about some parameters already?
+  1.) operable via command line and / or GUI \n
+  2.) cross-platform \n
+  3.) simple to use, hopefully encapsulating a lot of the gorier, more tech-oriented bits. \n
+  4.) enough of the idealistics; how about some parameters already? \n
   
 ### Something Concrete...
 
