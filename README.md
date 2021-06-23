@@ -46,11 +46,11 @@ Also, if you see any fundamental flaws in the concept that I have laid out, or i
   - The project now has a Reddit base at `r/persistmepersistmy`
   - Excepting ideas "willy nilly"
   - Send a pull request with thoughts: 
- where should we go from here.
- App(s) structure
- recommendations -- Techstacks etc.
- license type
- anything, I want to start by LISTENING
+     - where should we go from here.
+     - App(s) structure
+     - recommendations -- Techstacks etc.
+     - license type
+     - anything, I want to start by LISTENING
   - Accepting anything with actual ideas (no lude content, etc., etc., you know the drill)
   - Well call it a community brainstorm event.
   - Sign up on Reddit and include reddit username.
