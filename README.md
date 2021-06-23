@@ -37,4 +37,22 @@ Include the following:
   * Any info that I haven't included, but you think is relevant.
   * If you have any experience with administration, let me know here. Our community will need people to watch over our various networks (email, reddit, any other communication channels that we decide to use) and take on supervisory roles inside the project itself. While I DO NOT want to create a strict workplace type of environment, I also know that an environment with zero structure will breed zero productivity. IMO, the ideal environment will reside somewhere in the middle of these 2 extremes. Supervisory titles will be given, but they will not have 'power' over anyone. Their primary role in this capacity will be to facilitation. In fact, we will reserve the word / title 'coordinator' for these roles. This person will be responsible for keeping their sub-group working in the same direction and not against each other. Additionally, we will likely have regular coordinatoin meetings in which all coordinators will discuss the news / issues of the day/week/whatever group decides, and afterward, the coordinators will be responsible for letting their team know. Additionally, we will need to set up a message board somewhere. Again, your input is wanted. In the end, I suspect that we will use community votin for most topics. This all, of course, depends on the size of the community, so I will leave it at, "we'll see."
   
-Also, if you see any fundamental flaws in the concept that I have laid out, or if you have any ideas for improvement. I will make a list of these, along with the contributor for each (if you wish for your idea(s) to be attributed to 'anonymous' say so here and I / we will honour your wishes.) Once we all get together, one of our first tasks, after setting up an acceptably robust communication system,  
+Also, if you see any fundamental flaws in the concept that I have laid out, or if you have any ideas for improvement. I will make a list of these, along with the contributor for each (if you wish for your idea(s) to be attributed to 'anonymous' say so here and I / we will honour your wishes.) Once we all get together, one of our first tasks, after setting up an acceptably robust communication system, there will likely be multiple methods of getting ahold of someone at every leg of the project. But for now...
+ 
+ ## PHASE ALPHA : # EXPIRIMENTAL FREE FOR ALL!!
+ 
+ A couple of points to make..
+ 
+  - The project now has a Reddit base at `r/persistmepersistmy`
+  - Excepting ideas "willy nilly"
+  - Send a pull request with thoughts: 
+ where should we go from here.
+ App(s) structure
+ recommendations -- Techstacks etc.
+ license type
+ anything, I want to start by LISTENING
+  - Accepting anything with actual ideas (no lude content, etc., etc., you know the drill)
+  - Well call it a community brainstorm event.
+  - Sign up on Reddit and include reddit username.
+  - These can be our identifiers until we get a proper system in place
+ 
