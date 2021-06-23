@@ -43,7 +43,7 @@ Also, if you see any fundamental flaws in the concept that I have laid out, or i
  
  A couple of points to make..
  
-  - The project now has a Reddit base at `r/persistmepersistmy`
+  - The project now has a Reddit base at `r/persistmedev`
   - Excepting ideas "willy nilly"
   - Send a pull request with thoughts: 
      - where should we go from here.
