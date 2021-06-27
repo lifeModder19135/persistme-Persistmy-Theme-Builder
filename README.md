@@ -43,6 +43,7 @@ Also, if you see any fundamental flaws in the concept that I have laid out, or i
  
  A couple of points to make..
  
+  - I am looking at building a project for this purpose in Spring SHELL. This would let it depend on java... cross-platform! Thoughts?
   - The project now has a Reddit base at `r/persistmedev`
   - Excepting ideas "willy nilly"
   - Send a pull request with thoughts: 
