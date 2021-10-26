@@ -1,5 +1,10 @@
 # Persistme-Persistmy-Theme-Builder
 
+### IMPORTANT: 
+
+**_As of autumn, 2021, this project is to be migrated to a new home! It is to be part of the Rapidev Developer's Toolbox software pkg-suite. More importantly, any future development and / or maintainance undergone as part of the Persistme-Persistmy-Theme-Builder
+project will be under the care & supervision of the RapidevDT Community!!!_**
+
 In this repo, I intend to house the fruits of an open-source, community-led, project to design a program that will be 
 
   * 1.) operable via command line and / or GUI \n
